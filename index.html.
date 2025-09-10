@@ -1,0 +1,6 @@
+<div id="SiteWidgetMoyklass122664"></div>
+<script src="https://app.moyklass.com/api/site/widget/?id=015sfMsAbrqsD1Xa9QkZNxxIKB6etaQyOCkj"></script>
+
+<button onclick="WdgMoyklass['015sfMsAbrqsD1Xa9QkZNxxIKB6etaQyOCkj'].loadLeadFormByModal();">
+    Записаться
+</button>
